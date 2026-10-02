@@ -1,0 +1,13 @@
+## Build results
+bin/
+obj/
+
+## VS Code
+.vs/
+.vscode/
+
+## User-specific files
+*.user
+
+## appsettings with real secrets - do not commit
+src/Spillit.API/appsettings.json

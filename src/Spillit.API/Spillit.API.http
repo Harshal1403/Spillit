@@ -1,0 +1,6 @@
+@Spillit.API_HostAddress = http://localhost:5127
+
+GET {{Spillit.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
